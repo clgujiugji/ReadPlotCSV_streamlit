@@ -1,0 +1,15 @@
+requests
+pyserial
+twisted
+pycrc
+pyqt5
+pytest
+scipy
+pandas
+pyinstaller
+pynmea2
+obsub
+configparser
+tqdm
+mttkinter
+pygeodesy
